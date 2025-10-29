@@ -1,35 +1,57 @@
-# Hello, I'm Wei! 👋
-
-## 🚀 Aspiring Software Developer
-
-I embarked on my coding journey in 2024 with a clear goal: to become a skilled software developer/engineer. 
-
-### 🌱 Currently...
-
-- Exploring various programming tools and languages
-- Deepening my knowledge in computer science
-- Building my GitHub as a personal playground for creativity and learning
-
-### 🎯 My Mission
-
-I'm passionate about creating software that makes a positive impact. My aim is to develop solutions that contribute to making our world a better place to live.
-
-### 💡 My Approach
-
-- Infusing my projects with personal flair and unique design
-- Constantly learning and adapting to new technologies
-- Focusing on practical, real-world applications of software development
-
-### 🔭 Future Goals
-
-- Collaborate on open-source projects
-- Develop innovative applications that solve real-world problems
-- Continue to grow and evolve as a developer
-
-### 📫 Let's Connect!
-
-I'm always excited to meet fellow developers and tech enthusiasts. Feel free to reach out if you'd like to collaborate or just chat about coding!
+# 👋 Hi, I’m Wei Chang
 
 ---
 
-⭐️ From weiccc24(https://github.com/weiccc24)
+📍 Based in Shoreline, WA | 📧 weiling.changw@gmail.com
+
+---
+
+## 🎓 Education
+
+- **M.S. in Technology Innovation**, University of Washington (Sep 2025 - Mar 2027 (Expected))  
+  - Coursework: Data Structures, Algorithms, Robotics, Machine Learning  
+- **Backend, SQL & DevOps with Python Bootcamp**, Nucamp (Feb 2024 - Jul 2024)  
+- **B.S. in Biochemistry**, University of Washington (Sep 2014 - Jun 2018)  
+
+---
+
+## 💼 Work Experience
+
+### Information Technology Specialist at UW Global Innovation Exchange (Oct 2025 - Present)  
+- 🖥️ Frontline and escalated IT support for faculty, staff, and students  
+- 🛠️ Hardware, software, and network troubleshooting  
+- 🎥 Classroom A/V and multi-OS endpoint maintenance  
+- 📚 Asset management, documentation, and JIRA ticket resolution  
+
+### Research Associate II at Allen Institute for Immunology (Dec 2020 - May 2024)  
+- 📊 Automated data analysis and visualization pipelines with R (dplyr, ggplot2)  
+- ⚙️ Built data normalization pipelines for machine learning interoperability  
+- 🔍 Managed 500M+ data points from flow cytometry assays  
+- 🤝 Collaborated with cross-functional teams on data tools  
+
+---
+
+## 🚀 Projects
+
+### Cloud-Hosted LINE Bot for Event Media Management  
+- 📱 Full-stack Python app using Google Cloud VM  
+- 🔐 Integrated LINE Messaging API webhook and Google Photos API with OAuth 2.0  
+- 📝 Persistent user metadata logging  
+
+### Machine Learning-Based Cache Replacement Policy  
+- 🤖 Designed Python ML algorithm improving cache hit rates by 25%  
+- 📈 Developed testing and benchmarking suites  
+
+---
+
+## 🛠️ Skills
+
+- Programming: Python, JavaScript, SQL, R, Java  
+- Cloud & Tools: Google Cloud, AWS (S3, EC2), PostgreSQL, Git, Docker, CI/CD, RESTful APIs, Flask, Pandas, NumPy  
+
+---
+
+## 🔗 Find me on:
+
+- [LinkedIn](http://linkedin.com/in/wei-ling-chang-sea)  
+- [GitHub](https://github.com/weiccc24)  
